@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="./css/all.css">
+	<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+</head>
+<body>
+		<div class="videodiv">
+			<video controls="controls" autoplay="autoplay" class="video">
+				<source src="./img/video.mp4" type="video/mp4">
+			</video>
+			<canvas id="canvas" width="500" height="400" style="position:absolute;top:0;left:0;">
+  			</canvas>
+		</div>
+		<div class="setting">
+			<button class="pause"></button>
+		</div>
+		<div class="danmuimg">
+			<img src="./img/comment.png">
+		</div>
+		<div class="danmuarea"></div>
+		<div class="fire">
+			<input type="text" id="content" class="text"></input>
+			<button class="button3">发送</button>
+		</div>
+		<script src="./js/danmu.js"></script>
+</body>
+</html>

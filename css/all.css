@@ -1,0 +1,98 @@
+html{
+	width: 1125px;
+}
+.title{
+	padding-top: 414px;
+}
+.bg
+	{
+		background-color: #fff0e2;
+		height: 2500px;
+	}
+.np
+	{
+		font-size: 72px;
+		font-family: "华文仿宋";
+		color: #393939;
+		float: left;
+
+	}
+.aa{
+	margin-left: 150px;
+}
+.pn{
+	height: 95px;
+	width: 612px;
+	background-color: transparent;
+	border-radius: 20px;
+	border: 4px solid;
+	margin-left: 36px;
+	font-size: 75px;
+}
+.butdiv{
+	margin-top: 204px;
+}
+.button1{
+	width: 357px;
+	height: 234px;
+	margin-left: 149px;
+	background: url(../img/butreg.png);
+	border: none;
+}
+.button2{
+	width: 357px;
+	height: 234px;
+	margin-left: 87px;
+	background: url(../img/butlog.png);
+	border: none;
+}
+
+
+
+.video{
+	width: 1125px;
+	height: 600px;
+}
+.danmuimg{
+	padding: 45px 0px 0px 88px;
+	background-color: #fff0e2;
+}
+.setting{
+	height: 175px;
+	background-color: #d0baaa;
+}
+.pause{
+	height: 128px;
+	width: 128px;
+	border: none;
+	background: url(../img/pause.png);
+}
+.danmuarea{
+	height: 1200px;
+	padding-left: 35px;
+	background-color: #fff0e2;
+}
+.fire{
+	height: 175px;
+	padding-top: 38px;
+	text-align: center;
+	background-color: #d0baaa;
+}
+.text{
+	width: 847px;
+	height: 99px;
+	border: none;
+	border-radius: 20px;
+	background-color: #fff0e2;
+}
+.button3{
+	width: 164px;
+	height: 99px;
+	border: none;
+	border-radius: 20px;
+	background-color: #fff0e2;
+	font-size: 48px;
+	color: #585756;
+	font-family: "黑体";
+	margin: 0px 0px 0px 25px;
+}
